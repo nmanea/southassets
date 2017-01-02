@@ -70,8 +70,8 @@
 #alert{
 	color: red;
 }
-#announcement{
-	color: green;
+#information{
+	color: #007cff;
 }
 .col-md-4{
 	border-bottom: 0px solid black;
