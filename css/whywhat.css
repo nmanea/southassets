@@ -1,0 +1,24 @@
+.whywhat{
+    background-color: #3e4e6f;
+}
+.whywhat-title{
+    color: white;
+    font-family: "Comic", cursive;
+    font-size: 40px;
+}
+.whywhat-text-list{
+	color: white;
+	font-size: 22px;
+}
+.whywhat-text{
+	color: white;
+	font-size: 22px;
+}
+.btn-whywhat{
+	color: white;
+	text-decoration: none;
+}
+.btn-whywhat:hover{
+	color: white;
+	text-decoration: none;
+}

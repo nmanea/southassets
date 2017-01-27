@@ -1,0 +1,33 @@
+.jumbotron{
+	background-color: white;
+}
+.announcement{
+	background-image: url(../images/bg/announcements/events/battleoftheartsbg.jpg);
+	background-repeat: no-repeat;
+}
+.announcement-title{
+	font-weight: bold;
+}
+.announcement-title-default h1,.jumbotron h1{
+	color: black;
+}
+/*different types of announcements*/
+.announcement-title-event h1,.jumbotron h1{
+	color: green;
+}
+.announcement-date{
+	font-size: 18px;
+	font-style: italic;
+	color: #8e8e8e;
+}
+.announcement-text-area{
+	/*LOL I GOT NOTHING TO PUT HERE*/
+}
+.btn-announce{
+	color: white;
+	text-decoration: none;
+}
+.btn-announce:hover{
+	color: white;
+	text-decoration: none;
+}
