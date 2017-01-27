@@ -1,3 +1,29 @@
-.event-list-specific{
-	list-style: none;
+.events{
+	background-color: #3e4e6f;
+}
+.events h1{
+	font-family: "Lemonada",cursive;
+	color: white;
+	text-align: center;
+}
+.event-extras{
+	background-color: #677dad;
+}
+.google-drive-import-events{
+	background-color: white;
+	border-radius: 25px;
+}
+.events-text-custom{
+	font-family: "Comic", cursive;
+	color: black;
+}
+#contact-idea{
+	color: white;
+}
+.btn-events:hover{
+	text-decoration: none;
+	color: white;
+}
+.btn-events{
+	color: white;
 }
