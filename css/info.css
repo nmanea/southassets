@@ -1,0 +1,42 @@
+.clubandclass p, .clubandclass h1{
+	color: white;
+}
+.clubandclass p{
+	font-size: 24px;
+	font-family: "Times", cursive;
+}
+.clubandclass h1{
+	font-size: 50px;
+	text-align: center;
+	font-family: "Lemonada", cursive;
+}
+.clubandclass-main{
+	background-color: #3e4e6f;
+}
+.missed{
+	background-color: #3e4e6f;
+	text-align: center;
+	color: white;
+}
+.missed a{
+	color: white;
+	text-decoration: none;
+}
+.missed a:hover{
+	text-decoration: underline;
+}
+
+.img-responsive-custom img{
+	width: 100%;
+}
+.lists{
+	background-color: #677dad;
+}
+.assets-list-title{
+	color: white;
+	font-family: "Lemonada", cursive;
+}
+.assets-list-title a{
+	color: white;
+}
+/*#677dad*/
