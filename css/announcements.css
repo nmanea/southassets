@@ -7,21 +7,25 @@
 }
 .announcement-title{
 	font-weight: bold;
+	text-align: left;
 }
 .announcement-title-default h1,.jumbotron h1{
 	color: black;
+	text-align: left;
 }
 /*different types of announcements*/
 .announcement-title-event h1,.jumbotron h1{
 	color: green;
+	text-align: left;
 }
 .announcement-date{
 	font-size: 18px;
 	font-style: italic;
 	color: #8e8e8e;
+	text-align: left;
 }
 .announcement-text-area{
-	/*LOL I GOT NOTHING TO PUT HERE*/
+	text-align: left;
 }
 .btn-announce{
 	color: white;
@@ -30,4 +34,24 @@
 .btn-announce:hover{
 	color: white;
 	text-decoration: none;
+}
+.announcement-img img{
+	width: 100%;
+}
+@media screen and (max-width:768px){
+	.announcement-title-default h1, .jumbotron h1{
+		text-align: center;
+	}
+	.announcement-img img{
+		width: 50%;
+	}
+	.announcement-img{
+		text-align: center;
+	}
+	.announcement-date{
+		text-align: center;
+	}
+	.announcement-text-area{
+		text-align: center;
+	}
 }

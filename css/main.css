@@ -14,3 +14,11 @@
 .link-social a{
 	color: white;
 }
+.mobile-fix{
+	text-align: left;	
+}
+@media screen and (max-width: 768px){
+	.mobile-fix{
+		text-align: center;
+	}
+}

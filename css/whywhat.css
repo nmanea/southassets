@@ -22,3 +22,11 @@
 	color: white;
 	text-decoration: none;
 }
+.whywhat-text-mobile{
+	text-align: left;
+}
+@media screen and (max-width: 768px){
+	.whywhat-text-mobile{
+		text-align: center;
+	}
+}
