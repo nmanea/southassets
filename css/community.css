@@ -1,0 +1,50 @@
+/*GENERAL*/
+.community{
+	background-color: grey;
+}
+.community-title{
+	font-family: 'Indie Flower', cursive;
+}
+.community-description{
+	font-family: "Lemonada", cursive;
+}
+/*HAPPY JACK*/
+.happyjackfund{
+	background-color: #a8ffa8;
+}
+.happyjackfund{
+	text-align: center;
+}
+.community-web-link-hjf a{
+	color: grey;
+	font-style: italic;
+}
+.community-web-link-hjf a:hover{
+	color: black;
+	transition: 0.3s;
+}
+/*LARISA STRONG*/
+.larisastrong{
+	background-color: #28aae2;
+	text-align: center;
+}
+.community-web-link-ls a{
+	color: white;
+	font-style: italic;
+}
+.community-web-link-ls a:hover{
+	color: black;
+	transition: 0.3s;
+}
+/*MAKE A WISH*/
+.makeawish{
+	text-align: center;
+}
+.community-web-link-maw a{
+	color: #28aae2;
+	font-style: italic;
+}
+.community-web-link-maw a:hover{
+	color: black;
+	transition: 0.3s;
+}
