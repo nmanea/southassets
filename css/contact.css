@@ -1,0 +1,24 @@
+.contact{
+	background-color: #3e4e6f;
+}
+.contact-advisor{
+	font-family: "Lemonada", cursive;
+	color: white;
+}
+.contact-title{
+	font-family: "Impact", cursive;
+	color: white;
+}
+.contact-advisor img{
+	border-radius: 25px;
+}
+#contact-label{
+	color: black;
+}
+#contact-disclaimer{
+	color: white;
+}
+.contact-social{
+	font-family: "Lemonada", cursive;
+	color: white;
+}
